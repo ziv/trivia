@@ -4,14 +4,15 @@
   "license": "MIT",
   "scripts": {},
   "private": true,
-  "dependencies": {},
   "devDependencies": {
-    "@nrwl/tao": "13.5.2",
+    "@nrwl/angular": "^13.5.2",
     "@nrwl/cli": "13.5.2",
+    "@nrwl/node": "^13.5.2",
+    "@nrwl/tao": "13.5.2",
     "@nrwl/workspace": "13.5.2",
     "@types/node": "16.11.7",
-    "typescript": "~4.4.3",
-    "prettier": "^2.5.1"
+    "prettier": "^2.5.1",
+    "typescript": "~4.4.3"
   },
   "workspaces": [
     "packages/**"
